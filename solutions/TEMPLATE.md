@@ -1,0 +1,17 @@
+# Level X — <name>
+
+**Defense:** <what the guardrail does>
+
+## My Prompt
+```
+<the exact input I used>
+```
+
+## Why It Worked
+<explanation of the technique and which defense it bypassed>
+
+## Technique(s)
+- <tag, e.g. Direct Ask / Encoding / Roleplay>
+
+## Notes
+<anything else — what didn't work, variations I tried, the password if you want to record it>
