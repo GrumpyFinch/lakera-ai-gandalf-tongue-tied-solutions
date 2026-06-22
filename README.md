@@ -15,7 +15,7 @@ This is **educational security content**. Gandalf is an intentionally vulnerable
 | Level | Forbidden Topic | Writeup | Status |
 |------:|-----------------|---------|:------:|
 | 1 | MAGIC | [writeup](solutions/level-01.md) | ✅ |
-| 2 | VEGETABLES  (hidden) | [writeup](solutions/level-02.md) | ✅ |
+| 2 | VEGETABLES | [writeup](solutions/level-02.md) | ✅ |
 | 3 | _TBD_ | - | ⬜ |
 | 4 | _TBD_ | - | ⬜ |
 | 5 | _TBD_ | - | ⬜ |
